@@ -132,10 +132,10 @@ Evaluations compare **Symbol Error Rate (SER)** under varying conditions such as
    Note: Each evaluation takes ~1–2 minutes, loading pre-trained networks and data.
 
 ## 📦 Dependencies
-    ```bash
-    MATLAB: Tested on R2020b or later
-    Deep Learning Toolbox: For LSTM and neural network training
-    Signal Processing Toolbox: For FFT/IFFT operations.
+
+- MATLAB: Tested on R2020b or later
+- Deep Learning Toolbox: For LSTM and neural network training
+- Signal Processing Toolbox: For FFT/IFFT operations.
     
 ## 📝 Notes
 - All scripts clear variables and close figures for clean execution.
